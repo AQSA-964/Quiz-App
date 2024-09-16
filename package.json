@@ -2,7 +2,7 @@
 	"name": "quiz-app",
 	"version": "0.1.0",
 	"private": true,
-	"home": "https://aqsa-964.github.io/Quiz-App",
+	"homepage": "https://aqsa-964.github.io/Quiz-App",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.17.0",
 		"@testing-library/react": "^13.4.0",
