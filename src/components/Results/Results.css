@@ -1,0 +1,32 @@
+.results-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	background-color: #f4f4f4;
+}
+
+.results-container h1 {
+	font-size: 2rem;
+	color: #333;
+	margin-bottom: 20px;
+}
+
+.results-container p {
+	font-size: 1.2rem;
+	margin-bottom: 20px;
+}
+
+.results-container button {
+	padding: 10px 20px;
+	background-color: #4caf50;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.results-container button:hover {
+	background-color: #45a049;
+}

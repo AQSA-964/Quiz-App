@@ -1,0 +1,32 @@
+.question-container {
+	margin-top: 20px;
+}
+
+.question-text {
+	font-size: 1rem;
+	margin-bottom: 15px;
+	color: #333;
+	text-align: left;
+}
+
+.answer-options {
+	display: flex;
+	flex-direction: column;
+	align-items: first baseline;
+}
+
+.answer-options button {
+	padding: 10px;
+	margin: 7px 0;
+	font-size: 0.9rem;
+	background-color: #4caf50;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+.answer-options button:hover {
+	background-color: #45a049;
+}
